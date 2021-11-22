@@ -95,16 +95,13 @@ section {
     line-height: 1.4;
 }
 
-.btn-default,
-.btn-primary {
-    color: #fff;
-}
-
 .btn-default {
+    color: #fff;
     background-color: #faa541;
 }
 
 .btn-primary {
+    color: #fff;
     background-color: #364147;
 }
 
@@ -118,16 +115,13 @@ section {
     line-height: 1.4;
 }
 
-.text-light,
-.text-secondary {
-    font-size: 30px;
-}
-
 .text-light {
+    font-size: 30px;
     color: #a0a0a0;
 }
 
 .text-secondary {
+    font-size: 30px;
     color: #faa541;
 }
 
